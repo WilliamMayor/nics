@@ -1,2 +1,2 @@
 # nics
-Python 3 parser/generator for iCalendar files.
+Python 3 parser for iCalendar files.
